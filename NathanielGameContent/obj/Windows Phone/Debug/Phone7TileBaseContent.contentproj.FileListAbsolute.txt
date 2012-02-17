@@ -1,0 +1,6 @@
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercsContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBaseContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+G:\Phone7TileBase\Phone7TileBaseContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Phone7TileBase\Phone7TileBaseContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBaseContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBaseContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="roughrippleearthdarktograsstileset" tilewidth="32" tileheight="32">
+  <image source="roughrippleearthdarktograsstileset.png" trans="bf7bc7" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="treestileset" tilewidth="32" tileheight="32">
+  <image source="treestileset.png" trans="bf7bc7" width="512" height="1024"/>
+ </tileset>
+ <layer name="Ground" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC61WW3LCMAxkfANoKVyDPnON9JlrhLY01yCFNsetmFrTnUWynaEfO45trLVXa5l5mEwuBAvBMmIaMROcCc5hjDEb+a04xJwDtxd3ZewF1y0BC2rx2zvHinA5gq+KuIttah3z1IASvgrQRLwUrK0J7cjzNYAu4qMgRiquN56LmZuvEuOVk7tc3pYFnE1ivnFy15zIq/nw5jsndyUaHu7AleBacCO4DX8eP8QYMjG6EXyKnIYD7O1Un2D+u2B7UudUv/t/4MX863l4Xzqn+q0L4mrd8nKG+R9i3zrrAOgLeOuoy4PgUfAkeA6/dakxYqrWqMUQjt8B5ky9O/y28LuT853qZP2ea7bqjC2P53KhUJ0sXq7ZqjO2PJ7LhWITjuu36tUaWFPL4/r9KngTvAMH1oEvwTfxql5bAz21PK7fn4KdYA8c6DnmnRr6Wee29uNxpbyG/zNYP+/cHo/nR8trylk78VN+t7xl+dHymq5vC/hUoxrWWF5j3SyvWZy7kK4LnGv2WkleLM59SNeF0nxb0PuU09KqC1Yf60rJfrBm4B5SdcHqY10p0YNzqEjVBavfZ3gGh9e6e9ZdTM2jx1ua83zr3T++i6l59PjW+Y3y/wAilZT3EA4AAA==
+  </data>
+ </layer>
+ <layer name="Collision" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2WSw4BQRQAH5rxCzHEPwQT/7DDittxA27ADbieWvaGhXS6E3mV1OZl8mrRnfSIfCaXFYkwjxUjUjVfPv6BAvuKWMKytbtJr4VtHDAfOu522NfFHvat3VN6M5zjhvnWcXfBviWucG3t3tHb4wGPzE+Ou4ofUpxbGjNoPJ5hjVaMdWx47I5ojXGCid5ZRVEU5Q85875dArxxV5q3AN07zUeA7pPmS/8lgvEGmRNwYhAOAAA=
+  </data>
+ </layer>
+ <layer name="NonCollision" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2Wu0oDQRSGJ5BVEEwqS8HGRo2KVl4KazX6HomXp1BBRSujL+AFFUWEja2XOumytfdOX8F/YQ57crKj2XHXgHrggyGzO9+eM5PDKBUejmOY0NEH+sEA2E0pVRL4v51h7vzzZRqii3m708G4R4+nwQyYVYHL1ZC3grlqRG8v8+aYd1iPC6AIFlTgq2nI+4a594heU0xp7zrYAJsq8Pl4zJsB2ZR5rTGsNQ4mwGTa/ByPY3ACTlV9jpxOzGVA1j7NhuD5kqcsSMLL8yUn5expkvD6wWtL+1pKsM6rWHONOShXOtdJ1Jmch6Ku/H8Upc4jOMejhrP8DF7AKzgQTqotOV3m/k6+HcDBGm2gne2d7FHkqsXklX1Y7qXsGV5MXt6HTXsp+0UcXt6H5V56Ib2izOZyeGcQDFl4eV+i2rqirhLy5/HOHJi38PK+dKfq9zMM7l/E80tg2cJ7bcENuNXfuQW2Lbz3FjyAR/Ck7O4c//G74kLf5S6/uMM2GytN3pnijh3m3fvBb9hnrqMW5X7VIu9fjw9pCU2cEA4AAA==
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="30" height="30">
+  <object name="Nathaniel" type="Nathaniel" x="348" y="355" width="33" height="36"/>
+  <object name="Hermes" type="Hermes" x="342" y="241" width="38" height="37"/>
+ </objectgroup>
+</map>

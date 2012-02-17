@@ -1,0 +1,12 @@
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\bin\Windows Phone\Debug\NathanielGameLibraryPhone.dll
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\bin\Windows Phone\Debug\NathanielGameLibraryPhone.pdb
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\NathanielGameLibraryPhone.dll
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\NathanielGameLibraryPhone.pdb
+D:\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\bin\Windows Phone\Debug\NathanielGameLibraryPhone.dll
+D:\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\bin\Windows Phone\Debug\NathanielGameLibraryPhone.pdb
+D:\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\NathanielGameLibraryPhone.dll
+D:\College\Project\Game\NathanielGameWP7\NathanielGameLibraryPhone\obj\Windows Phone\Debug\NathanielGameLibraryPhone.pdb

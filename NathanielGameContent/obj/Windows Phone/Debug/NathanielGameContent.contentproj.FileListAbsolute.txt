@@ -1,0 +1,5 @@
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBaseContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruairi\Desktop\NathanielGame\NathanielGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\College\Project\Game\NathanielGameWP7\NathanielGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruairi\Desktop\NathanielGameWP7\NathanielGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="roughrippleearthdarktograsstileset" tilewidth="32" tileheight="32">
+  <image source="roughrippleearthdarktograsstileset.png" trans="bf7bc7" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="treestileset" tilewidth="32" tileheight="32">
+  <image source="treestileset.png" trans="bf7bc7" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1537" name="minetileset2" tilewidth="32" tileheight="32">
+  <image source="minetileset2.png" trans="bf7bc7" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="2561" name="windmilltileset" tilewidth="32" tileheight="32">
+  <image source="windmilltileset.png" trans="bf7bc7" width="512" height="1024"/>
+ </tileset>
+ <layer name="Ground" width="100" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9VZQXLDIAws/z/HzUfc8hG3PKfxTDSjboSQQTLOYacpccWuViBMl/TxsTxxm4C7EV8MS5rLeWGcvLnsMb8fyA+sJ+OIH+jNbE84F8/89eQDsTVANfXJnud11uvJu9WRJX/3p6YRtObjXhBG/bhSHXnnrwyiNR/XRGMeflyljjzzt8db0/+6+FF+X9nYr3E+7gWNefhxlTryzN9d+J44WHsbrulavMLGeP1ZIPkxs444J8/8YZ3tcx/pk7W4BebIwJnqz8pZ8mZmHd3ge6/8Wbkf0Yd+U31Jei2ckXdEHo7WEcWgZ/kz9HMzQOLj7Qf6jf5g/R3xJTIPPXWk5QP/DnsWX5fevvBeEOF1a04PRHE7Kx9abt7Rj9UJV/KjZ/8Z1SydvTywNYAcpDHKx0w/Zmj2QE6v+7sG7X0R/SCctW6kXmiBl2YPlPR6ZtOgvS8iN8mPyP1de6fR4Kl5FPvai3hfRF+kdRN5piBtpI8+rydp7oVVj+V90eKHtH5WJyD/UQ9HNPcC9UgcC8ybk/y+eNQPbc1qkHIo1avVwwjNveA6Wxz5mq3VUI8fOcX015avnppRwyg4/xpHiStyk3La8qMAWlwt/TUL+cPYnppRwygyi1vjuH/m/6PMAjeKd8SPiP5aUrt3e2pu7Q9XuDPQPOA4g6PEc0Yf0XqZBzQ/rIjmWOO5pfje2YutAeQnjWnrVMMsnrT/8Lg1X6QYtd7J4yLwmRpaeYi8M7By9OZZUkzv5HGRHz5TQysPkXcGVo7ePKN7fBG0Uswr3xnw/eZMnhEe0Hc1rTcjZt8ZzOAZsR7QY/TGevaQ9PL5qOYi7gzyJJ5n7FfoTes8op0pzjrr/QFlXOPQ4C4AAA==
+  </data>
+ </layer>
+ <layer name="NonCollision" width="100" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3Ryw2CUBRF0TelXUXtQxH6ANQ+/LbDKcD5C2GtZM9vzi0FAAAAAIB/dk0p+9SmQzqmU1P7qu06Z/tL6tI19Wnwj2rGbD+lOd3SPT38o5pntn+ld/qkb/r5BwAAAACwQguqlWs/4C4AAA==
+  </data>
+ </layer>
+ <layer name="Collision" width="100" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2aR2/VQBRGB7BN4K3obOkBVvSORFmQBJAoGyAgURYkASTKhromCfA7KP8CJKooAglWFIEEK4pAghXlWHpWrOuZ8YMk9pg3RzqrJ1vz7jeea81YqQHCUKkIR2MLPg+UehGo/4ab/JdbFfo/k8hgMk7BqfiesX/QjH8dv63HDbgxzOboCg8Z+yN8jE/wKT6rUB6zqOVsnIOt+J2x/9CMfxu/bccduDPM5qhDZlgELxn7K3yNb/AtvguyObnKEuq0FJfh8lTN5PzfjwfwIB4KsznqkBkWwUdq/Qk/4xf8it+CbE4xLq1leXNXzv/jeAJP4qnQnGMamWER/KS+v/B3XOdwoN4ypxiX1rK8udvI/E+j6ycyw6JJ11vmFJOsZS6QN3d18/82Y79jGH8j/WS4kT1C1luuT8la5gL/Mndt78K256movi57hKy3S+vTUGB6F46x9ZOi+rquR6RJPy9Ved+yYXoXzqOovm7q5Qnp50X3vtUslNHX5drUEik1BsdiLcp/ljxDi+zlrWQwF+fh/Ej/vuUZPmQv30QGbdiOHVF542pGRjDfR+IoDOpz/zAZdGE39vg8CmUcGYzHCTixnsdFMujFPuz3eRTKNDKYjjNwZj2Pq2RwDa/jDZ9HoSwgg4W4CBfX87hLBvfwPj7weXg8Ho+nCTDtx9r22z2Dw/Y9gmk/1rTfbrtXGWfoVcR2fmTajzXtt9vuVcYZehWxnR+Z9mNN++22e5Vxhq5jRU2plbgKV+MaXFsrbzySRr5HSMj71kreS65RZZ6hJ7RR+3bswM24Bbc6lIfEVnPTemS6xsU1ahe13417sBP34j6H87D1ANN6ZLrGlTUqTRe178YePIJH8ZjDedh6gGltM11T9nc+Ok5T+zN4Fs/hebzgcB5/008Gc01Z9FL7PuzHS3gZrziSxx8WpMtp4C4AAA==
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="100" height="30">
+  <object name="Hermes" type="Hermes" x="265" y="491" width="34" height="32"/>
+  <object name="Nathaniel" type="Nathaniel" x="393" y="491" width="49" height="41"/>
+  <object name="Soldier" type="Enemy" x="1376" y="75" width="29" height="27"/>
+  <object name="Soldier" type="Enemy" x="1359" y="219" width="28" height="28"/>
+  <object name="Soldier" type="Enemy" x="1341" y="439" width="33" height="29"/>
+  <object name="Soldier" type="Enemy" x="1337" y="601" width="29" height="36"/>
+  <object name="Spawner" type="Enemy" x="1533" y="353" width="184" height="164"/>
+  <object name="Spawner" type="Enemy" x="1560" y="723" width="212" height="199"/>
+  <object name="Spawner" type="Enemy" x="2453" y="720" width="232" height="184"/>
+  <object name="Soldier" type="Enemy" x="2254" y="595" width="45" height="32"/>
+  <object name="Soldier" type="Enemy" x="2252" y="439" width="32" height="28"/>
+  <object name="Boss" type="Enemy" x="2763" y="333" width="42" height="36"/>
+  <object name="Soldier" type="Enemy" x="1088" y="842" width="41" height="33"/>
+  <object name="Soldier" type="Enemy" x="1029" y="148" width="35" height="36"/>
+  <object name="Soldier" type="Enemy" x="2602" y="74" width="36" height="35"/>
+  <object name="Soldier" type="Enemy" x="2929" y="172" width="49" height="41"/>
+ </objectgroup>
+</map>

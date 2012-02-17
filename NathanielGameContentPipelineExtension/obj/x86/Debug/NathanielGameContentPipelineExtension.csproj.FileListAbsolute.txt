@@ -1,0 +1,10 @@
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\bin\x86\Debug\NathanielGameContentPipelineExtension.dll
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\bin\x86\Debug\NathanielGameContentPipelineExtension.pdb
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\obj\x86\Debug\NathanielGameContentPipelineExtension.dll
+C:\Users\Ruairi\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\obj\x86\Debug\NathanielGameContentPipelineExtension.pdb
+D:\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\bin\x86\Debug\NathanielGameContentPipelineExtension.dll
+D:\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\bin\x86\Debug\NathanielGameContentPipelineExtension.pdb
+D:\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\obj\x86\Debug\NathanielGameContentPipelineExtension.dll
+D:\College\Project\Game\NathanielGameWP7\NathanielGameContentPipelineExtension\obj\x86\Debug\NathanielGameContentPipelineExtension.pdb

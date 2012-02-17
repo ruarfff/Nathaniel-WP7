@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\gamefont.xnb</Output>
+      <Time>2010-09-25T11:36:13.9505191+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\menufont.xnb</Output>
+      <Time>2010-09-25T11:36:13.9455188+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\background.xnb</Output>
+      <Time>2010-09-25T11:36:13.948519+01:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\blank.xnb</Output>
+      <Time>2010-09-25T11:36:13.9495191+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\gradient.xnb</Output>
+      <Time>2010-09-25T11:36:13.9515192+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\shadow.png</Source>
+      <Name>Characters\shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\Characters\shadow.xnb</Output>
+      <Time>2010-09-27T22:02:56.5262968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard.png</Source>
+      <Name>Characters\Wizard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\Characters\Wizard.xnb</Output>
+      <Time>2008-10-27T12:46:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\light-grey.png</Source>
+      <Name>Characters\light-grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\Characters\light-grey.xnb</Output>
+      <Time>2009-12-12T11:01:19.6573595+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\light.png</Source>
+      <Name>Characters\light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\Characters\light.xnb</Output>
+      <Time>2010-09-30T22:46:54.5333105+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\TestMap.tmx</Source>
+      <Name>Maps\TestMap</Name>
+      <Importer>TmxImporter</Importer>
+      <Processor>TmxProcessor</Processor>
+      <Parameters>
+        <Data Key="TileSetDirectory">TileSets</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\Maps\TestMap.xnb</Output>
+      <Time>2010-09-28T08:52:33.2037864+01:00</Time>
+      <Request>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\TileSets\Tileset.xnb</Request>
+      <Request>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\TileSets\clouds.xnb</Request>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset.png</Source>
+      <Name>TileSets\Tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\TileSets\Tileset.xnb</Output>
+      <Time>2010-09-26T20:24:10.9146044+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\clouds.png</Source>
+      <Name>TileSets\clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\TileSets\clouds.xnb</Output>
+      <Time>2010-09-26T21:26:42.0901593+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>E:\Phone7TileBase\Phone7TileBaseContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Phone7TileBase\Phone7TileBaseContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>E:\Phone7TileBase\TiledContentPipeline\bin\x86\Debug\TiledContentPipeline.dll</Key>
+        <Value>2010-09-30T21:13:46.320683+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-16T22:28:47.3347573+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,6 @@
+D:\College\Project\Game\NathanielGameWP7\EasyStorage\bin\Windows Phone\Release\EasyStorage.dll
+D:\College\Project\Game\NathanielGameWP7\EasyStorage\bin\Windows Phone\Release\EasyStorage.pdb
+D:\College\Project\Game\NathanielGameWP7\EasyStorage\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+D:\College\Project\Game\NathanielGameWP7\EasyStorage\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\College\Project\Game\NathanielGameWP7\EasyStorage\obj\Windows Phone\Release\EasyStorage.dll
+D:\College\Project\Game\NathanielGameWP7\EasyStorage\obj\Windows Phone\Release\EasyStorage.pdb

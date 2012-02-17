@@ -1,0 +1,121 @@
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\gamefont.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\menufont.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\background.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\blank.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\gradient.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\Maps\Tiles.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\Maps\TestMap.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\Content\TileSets\Tiles.xnb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\MicroMercs.dll
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\MicroMercs.pdb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\TiledLib.dll
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\TiledLib.pdb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\obj\Windows Phone\Debug\MicroMercs.dll
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\obj\Windows Phone\Debug\MicroMercs.pdb
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\bin\Windows Phone\Debug\MicroMercs.xap
+c:\users\gareth\documents\visual studio 2010\Projects\MicroMercs\MicroMercs\MicroMercs\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.dll
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.pdb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.dll
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.pdb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.dll
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.pdb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.xap
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gamefont.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\menufont.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\background.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\blank.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gradient.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\shadow.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\Wizard.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Maps\TestMap.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\Tileset.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\clouds.xnb
+C:\Users\Gareth\Documents\Visual Studio 2010\Projects\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\light.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.dll
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gamefont.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\menufont.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\background.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\blank.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gradient.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\shadow.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\Wizard.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\light-grey.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\light.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Maps\TestMap.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\Tileset.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\clouds.xnb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.dll
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.pdb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.dll
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.pdb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.pdb
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\AppManifest.xaml
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml.g
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.xap
+G:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gamefont.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\menufont.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\background.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\blank.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gradient.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\shadow.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\Wizard.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\light-grey.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\light.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Maps\TestMap.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\Tileset.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\clouds.xnb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.dll
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.pdb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.dll
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.pdb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.dll
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.pdb
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.xap
+E:\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gamefont.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\menufont.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\background.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\blank.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\gradient.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\shadow.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\Wizard.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Characters\light.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Maps\TestMap.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\Tileset.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\TileSets\clouds.xnb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.dll
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.pdb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.dll
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\TiledLib.pdb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.dll
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\Phone7TileBase.pdb
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Phone7TileBase.xap
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Ruairi\Downloads\phone7tilebase\Phone7TileBase\Phone7TileBase\Phone7TileBase\bin\Windows Phone\Debug\Content\Maps\map.xnb

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="minetileset2" tilewidth="32" tileheight="32">
+  <image source="minetileset2.png" trans="bf7bc7" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="roughrippleearthdarktograsstileset" tilewidth="32" tileheight="32">
+  <image source="roughrippleearthdarktograsstileset.png" trans="bf7bc7" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="2049" name="treestileset" tilewidth="32" tileheight="32">
+  <image source="treestileset.png" trans="bf7bc7" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2561" name="windmilltileset" tilewidth="32" tileheight="32">
+  <image source="windmilltileset.png" trans="bf7bc7" width="512" height="1024"/>
+ </tileset>
+ <layer name="Ground" width="100" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC82ZWXLbMBBE/YV/WUmkazgrr0Fl0zXoJLauociJddyAVeyq9qgHoEIR0McrsggKy/TMYAgtws3NYgK3kWXkVeR14vmbyCqyjjQE3m8HDiPGxLuq7+NEdpEt0QxzaonNQP/8KfIn8jfybPo5B4x1NwFlK36e0gTrxXtY5xj98S7sgz7BylztvYLtCRuh/32kG7iP/Ij8jPyKPEQejV3PoTHzaAUp/2ebKo1aRy+vnyl6oB+ee7++T+Zq75uQX1vfVjIuQDfS9jn/Ax3N34slHuc2vFwv2j34XTs/tH0f1omrvd8Oc3obeRd5H/kQ+Ui6rWm+JfNjbj9QeV/5H+DYZt9iXZQe8PeUFio2eG7wuUdz9fagvp/PkS+Rr5FvpBvHUKn8uAvah3NxovwP7IkunGpj+2fboC2Vr8bmNUbl1dxeAF8tmR+XQftwKo6bcOp/jPIF1sbOC2tln2gT8LtjUf30c/od/L1gF8rnR+R768OpON7SnHkfAzZ/YSzEjKdHSgOrx9h3QSfI6XEM5fNjQ3NmH567puOY3YRTn9gkULbNsXfg9ap7tqOysYeK0ZxdYasaNZ3NZcwmYb8pqFjgNnUPeyj7plAxmotH2IrjqafUNy/vc4vKdvd+z7bk+Jkzd/S2KF3T8XxsrNesb5kaWiyFHiVqOm5LfWuwHZWNPVQOydnT2srmmlKa1Kjp7PhWA+vTJfM3OIS6etTICY3TB1OyvmUWoU6tUzMn2LygtFC2zbF3YB9X9/x75SMlap2aOWHnaAA8u45hap0FLUrXOnassXh+eU5OOIbT770pGlxSD+xlpWudUt/hGNtqdy32598/hTrn++tQ/nwEa2IbgBr5wVuDFxslzq/24eX+1jrP59KM513zW8j6PttR2djjTpCzIezSCmydN7cuVos58kNpH/PyAqNi1puT0mWu+jsVG5fKD9eiB7dbfVZBxwe04LW1Tt/HiexCmfOR2ufYINd+cFA+O9f+as8OlX1TKH/q44BrplK+ZePFkmvP+V6J/dXmGC9mPTqB0uMaajf+nWofowXWMFf9zWMo2+bYO6D9XuhRs3ZLkdKiVP3NOeZ/yX0P1j7HBqyravf+e5h7f+V65lJnJSlNap9jj90/xmih7JuiFXj2ep5ZB5yPlPItb98Auf3lH7+E6M7gLgAA
+  </data>
+ </layer>
+ <layer name="NonCollision" width="100" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2ay05VMRSGyz5oTmAEHnWs8AKAT6hOVaJOASNMuYSbIy+v4Lk5BoW53JzyETcJaXbb1bIvh7D+5EuTne6u1dWe7pP8NUZ1l7SdGbMDu7AH+/AlSx/vTduYt/AOFtv/n43RZtCC8XZ546b0uc34ZccsUpfa96APAxjCr4j1eEkOr+B1nssS7TKswKf82RTtNDyCjjBnybi2XH0k+6HoXTuHmJipOqH2p3AG53AB/yLW4z05fICPeS7rtBuwCVv5s2e0z2EGZq2cXftLMq4tVx/Jfih6184hJqZvbj5Nt8gTOvAYnsDTluzdK30mziqs5fG+0n6D7/AjfzZHOw8L8MLKy7W/QuMWzbUo9pXs/SB992YOrtq6YvrmVqW2ibMDu4F4rvm49ldo3Jizyd4P0jrdzCGltpLfdFNyzce3v3wq+2xKjedT6tzqUNl7RXo2xbybEu9akm//KKmuveL7VlUpybdfVZ/s/x+qZiX9X6NSqVQqlUqlqkc/J4zpQg/6MIDhRNNZ3V8dUPtD+A1/4AiOdT0a019qfwKncAbncKHr0ZjGJo3JoAXj8AAeTjadlcqnMnxvlVwhPzHF91alK+R5SbyEqnTX/IQyFPKIiryEmDq5zjuJzx/rJ0jO1lFaY6mHH6pVTJ1c553Ei471EyRnqyT3su5ThdZe6seH+vnqZOfgOu8k3q3tJ4TqJDlbJWsce29Bel/JltS/DvXz+S52Di7vNMW7DdVJ4tNKPKNYn196X8mWtAa38bmr9CzrujsTO//U+0p1qMocRvXuTGxelw9AXdHgLgAA
+  </data>
+ </layer>
+ <layer name="Collision" width="100" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3Tx08UARjG4fGgjOtZQUk0UWEXUEATBUs0sdHsF9sNG816sp1sodluthOoodlutj/Ox4jJhovrZhIS/H7Jk+zAkGzeL2xclCSNNNHMJjbzp7zPBeqop4ENrE6TZE36+521ntexnhpqi/4++rcO2e4wRzjKMY4X7dnmczsddNLFwV83dIsmmtnjeS/72M+BuEfZXbLdZa5wlWtcL9rzos899NJHPwPscofds/8f3Z7Pco7zXIh7lN0j2z3mCU95xmI7L6GClEE/G2KYEUbn7H3X8z3u84CHcY+ye2+7D3zkE59Z7gYrqKSKCT+bZIppZubsPeZ5nDe85V3cI9Nq3KCWPIV0vr9NtMUNttJCa9wjiqIoiqIoiqIomq0nlyS99NHPQG6+v9HCqcKWKUvJsayEbW945ya3uM2duEdmVdqyipWsorqEbQe9M8QwI4zGPTIrb8sCddTTwM6/7Pvc71/wkle8jntkVostW9nGdnaUsO2EdyaZYpqZuEdmtdmynQ466Sph2y/e+co3vvMj7pFZJ2x5klOc5kxsG0VRFEVRFEVR9F/0E//M/mTgLgAA
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="100" height="30">
+  <object name="Hermes" type="Hermes" x="161" y="310" width="34" height="41"/>
+  <object name="Nathaniel" type="Nathaniel" x="308" y="299" width="38" height="44"/>
+  <object name="Soldier" type="Enemy" x="943" y="239" width="32" height="33"/>
+  <object name="Soldier" type="Enemy" x="957" y="446" width="48" height="46"/>
+  <object name="Soldier" type="Enemy" x="1052" y="630" width="38" height="34"/>
+  <object name="Spawner" type="Enemy" x="1130" y="358" width="222" height="186"/>
+  <object name="Spawner" type="Enemy" x="1776" y="324" width="218" height="186"/>
+  <object name="Spawner" type="Enemy" x="2431" y="281" width="202" height="158"/>
+  <object name="Spawner" type="Enemy" x="2524" y="554" width="184" height="154"/>
+  <object name="Boss" type="Enemy" x="3024" y="373" width="48" height="46"/>
+  <object name="Soldier" type="Enemy" x="2155" y="390" width="42" height="40"/>
+  <object name="Soldier" type="Enemy" x="2237" y="563" width="48" height="42"/>
+ </objectgroup>
+</map>

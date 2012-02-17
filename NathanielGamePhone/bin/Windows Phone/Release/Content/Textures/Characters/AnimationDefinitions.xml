@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <!--Player animation definitions-->
+  <Definition FrameWidth="50" FrameHeight="58"
+      SheetRow="1" SheetColumns="8" Speed ="4"
+      SheetName="nathanielspritesheet"
+      IsHorizontal="false"
+      Alias="NathanielWalkingSouth"/>
+
+  <Definition FrameWidth="50" FrameHeight="58"
+      SheetRow="1" SheetColumns="8" Speed ="4"
+      SheetName="nathanielspritesheet"
+      Horizontal="false"
+      Alias="NathanielWalkingNorth"/>
+
+  <Definition FrameWidth="50" FrameHeight="58"
+     SheetRow="1" SheetColumns="8" Speed ="4"
+     Horizontal="false"
+     SheetName="nathanielspritesheet"
+     Alias="NathanielWalkingEast"/>
+
+  <Definition FrameWidth="50" FrameHeight="58"
+     SheetRow="1" SheetColumns="8" Speed ="4"
+     SheetName="nathanielspritesheet"
+     Horizontal="false"
+     Alias="NathanielWalkingWest"/>
+
+</Animations>

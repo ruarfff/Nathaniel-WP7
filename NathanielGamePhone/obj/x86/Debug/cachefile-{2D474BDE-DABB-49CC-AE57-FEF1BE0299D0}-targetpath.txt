@@ -1,0 +1,12 @@
+Content\gamefont.xnb
+Content\menufont.xnb
+Content\background.xnb
+Content\blank.xnb
+Content\gradient.xnb
+Content\Characters\shadow.xnb
+Content\Characters\Wizard.xnb
+Content\Characters\light-grey.xnb
+Content\Characters\light.xnb
+Content\Maps\TestMap.xnb
+Content\TileSets\Tileset.xnb
+Content\TileSets\clouds.xnb
